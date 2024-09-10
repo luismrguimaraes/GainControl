@@ -2,7 +2,7 @@
 
 ![](GUI.PNG)
 
-A simple vst3 plugin made with JUCE with the following features:
+A simple plugin made with JUCE with the following features:
 * overall gain slider
 * left channel gain slider
 * right channel gain slider
