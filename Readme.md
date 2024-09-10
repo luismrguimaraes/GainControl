@@ -1,3 +1,7 @@
+# Download
+
+Download an AU build [here](https://drive.google.com/drive/folders/1JEc5dpp8WEKujxOAX-JrZlfpTfPEMJS_?usp=sharing).
+
 # Description
 
 ![](GUI.PNG)
@@ -11,7 +15,7 @@ A simple plugin made with JUCE with the following features:
 * button to swap the left and right channels
 
 # Build
-At the moment, the plugin should be built using the [Projucer](https://juce.com/discover/projucer).
+The plugin can be built using the [Projucer](https://juce.com/discover/projucer).
 
 ---
 
